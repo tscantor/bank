@@ -1,0 +1,25 @@
+table {
+    margin: auto;
+
+    border: 1px solid black;
+
+    background: #56fabb;
+}
+
+th {
+    border: 1px solid black;
+    background: #aabb11;
+}
+
+td {
+    border: 1px solid black;
+    background: #aa3434;
+}
+
+a {
+    margin: 30px;
+    padding: 10px;
+
+    border-radius: 10px;
+    background: lightgreen;
+}

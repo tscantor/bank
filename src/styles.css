@@ -1,0 +1,51 @@
+@import url(//fonts.googleapis.com/earlyaccess/opensanshebrew.css);
+
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(#26D0CE, #1A2980);
+    background-repeat: no-repeat;
+
+    font-family: 'Open Sans Hebrew', sans-serif;
+    direction: rtl;
+    text-align: center;
+}
+
+input {
+    margin: auto;
+    margin-top: 25px;
+    height: 30px;
+    width: 150px;
+
+    padding: 3px;
+
+    display: block;
+
+    border-radius: 10px;
+    border: black 1px solid;
+
+
+    letter-spacing: 1px;
+    text-align: center;
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+#bnk{
+    font-size: 10pt;
+    padding-top: -10px;
+}
+
+#bktk{
+    font-size: 30pt;
+    color: white;
+    font-weight: 600;
+}
+
+#sub{
+
+    font-size: 10pt;
+    letter-spacing: 2pt;
+    font-weight: 900;
+}
